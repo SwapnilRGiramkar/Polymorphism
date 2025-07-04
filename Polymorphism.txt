@@ -1,0 +1,22 @@
+*Polymorphism--->
+    -Poly  means Many 
+    -Morph means Form
+    -ism   means Action/Showing the caharacteristics
+
+-Defination-->
+		Its Ability of members to have one name and many forms.
+-Polymorphism can Achieve in two ways.
+1)Compile Time Polymorphism.
+2)Run Time Polymorphism.
+
+*Compile Time Polymorphism-->(Compile Time Binding)
+-If a member(variable,methods,constructors) has one name and many form,hare compile decides which form 
+  to be executed at compile-time. This is known as Compile Time Polymorphism.
+
+-They are-
+1)Method Overloading.
+2)Constructor Overloading.
+3)Method Shadowing.
+4)Variable Shadowing.
+5)Operator Overloading.
+-->Operator Overloading is not Supported in java other than "+" Operator.
